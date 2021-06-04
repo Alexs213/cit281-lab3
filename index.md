@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Lab3 
 
-You can use the [editor on GitHub](https://github.com/Alexs213/cit281-lab3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This weeks lab we leanred how to use arrow functions and how to export code onto another js file.
+Lab goals and outcomes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Practice refactoring JavaScript code to use more modern syntax
 
-### Markdown
+*Practice destructuring an object
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Practice converting normal functions into arrow function expressions
 
-```markdown
-Syntax highlighted code block
+*Examine using for..in  syntax with objects
 
-# Header 1
-## Header 2
-### Header 3
+*Practice using for..of syntax with arrays
 
-- Bulleted
-- List
+*Practice creating a Node.js compatible code module using module.exports
 
-1. Numbered
-2. List
+*Practice importing a Node.js compatible code module using require
 
-**Bold** and _Italic_ and `Code` text
+*Examine code using the spread operator
 
-[Link](url) and ![Image](src)
-```
+Here is a quick perview of what we worked on for lab3.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexs213/cit281-lab3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![lab3](lab3.png)
